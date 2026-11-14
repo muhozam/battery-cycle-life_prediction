@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+h5py
+requests
+tqdm
+matplotlib
+seaborn
+tensorflow
