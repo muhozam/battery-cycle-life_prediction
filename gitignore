@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL support
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython / Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Data and storage directories (Heavy binary dataset artifacts)
+*.mat
+*.part
+*.parquet
+*.npz
+drive/
+battery_data/
+
+# Virtual environments and local settings
+venv/
+.venv/
+env/
+.env
+.config/
+
+# System & IDE files
+.DS_Store
+.vscode/
+.idea/
